@@ -11,7 +11,7 @@ mechanisms and stem cell contributions to renewal.
 feedback mechanisms, stem cell contributions to renewal, and control by non-parenchymal cells.  
 - **Hepat_HR_senes.m**: Matlab code implementing the robust homeostatic renewal model response to hepatocyte
 senescence including robust feedback mechanisms.  
--**Hepat_HR_senes_control.m***: Matlab code implementing the robust homeostatic renewal model response to hepatocyte senescence including robust feedback mechanisms, stem cell contributions to renewal, and control by non-parenchymal cells.
+- **Hepat_HR_senes_control.m**: Matlab code implementing the robust homeostatic renewal model response to hepatocyte senescence including robust feedback mechanisms, stem cell contributions to renewal, and control by non-parenchymal cells.
 - **Hepat_Renewal_Reproduced.m**: Independently developed Matlab code for reproducing the results of a complete
 homeostatic renewal model including robust feedback mechanisms, stem cell contributions to
 renewal, and control by non-parenchymal cells.  
